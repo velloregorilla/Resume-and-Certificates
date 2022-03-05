@@ -1,6 +1,6 @@
 # Resume-and-Certificates
 
-This repository contains my resume and certificates that I have earned over the years.
+This repository contains my resume and certificates I have earned over the years.
 
 ### AMCAT CERTIFICATES 
 Business Analyst - https://www.myamcat.com/certificate/10821983/business-analyst/94
