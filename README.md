@@ -9,6 +9,6 @@ Data Processing Specialist - https://www.myamcat.com/certificate/10821983/data-p
 
 Business Consultant - https://www.myamcat.com/certificate/10821983/business-consultant/247
 
-in English Comprehension - https://www.myamcat.com/certificate/10821983/in-english-comprehension/283
+English Comprehension - https://www.myamcat.com/certificate/10821983/in-english-comprehension/283
 
 Proficiency in English - https://www.myamcat.com/certificate/10821983/proficiency-in-english/284
